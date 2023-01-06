@@ -1,0 +1,88 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  width: 99%
+}
+
+.transbox{
+    width: 68%;
+    height: 630px;
+    margin: auto;
+    margin-top: 30px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 25px;
+}
+
+header{
+  display: block;
+  text-align: center;
+}
+
+#Title{
+  color: #00da00;
+  margin-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 0px;
+}
+
+#imglogo{
+  width: 200px;
+  margin-top: 30px;
+}
+
+nav{
+  background-color: #00da00;
+  text-align: center;
+  height: 40px;
+  width: 80%;
+  margin: auto;
+  margin-top: 8px;
+}
+
+.tasti{
+  position: relative;
+  top: 25%;
+}
+
+main{
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ProfileMonopattino{
+  font-size: 20px;
+}
+
+.InfoMonopattino{
+  font-size: 15px;
+}
+
+#StatoCaricaGino22{
+  background-color: orange;
+  width: 35%;
+  height: 20px;
+  border-radius: 5px;
+}
+.Mike24{
+  margin-top: 20px;
+}
+#StatoCaricaMike24{
+  background-color: #00da00;
+  width: 60%;
+  height: 20px;
+  border-radius: 5px;
+}
+
+#StatoCaricaFede154{
+  background-color: red;
+  width: 15%;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.Fede154{
+  margin-top: 20px;
+}
